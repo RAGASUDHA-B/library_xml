@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <id>1</id>
+        <title>Java Basics</title>
+        <author>James Gosling</author>
+        <isbn>978-0-13-468599-1</isbn>
+        <category>Technology</category>
+        <quantity>5</quantity>
+        <price>29.99</price>
+    </book>
+    <book>
+        <id>2</id>
+        <title>XML Guide</title>
+        <author>John Doe</author>
+        <isbn>978-0-32-117568-2</isbn>
+        <category>Technology</category>
+        <quantity>3</quantity>
+        <price>24.99</price>
+    </book>
+    <book>
+        <id>3</id>
+        <title>JSP and Servlets</title>
+        <author>Marty Hall</author>
+        <isbn>978-0-07-145511-2</isbn>
+        <category>Technology</category>
+        <quantity>4</quantity>
+        <price>34.99</price>
+    </book>
+    <book>
+        <id>4</id>
+        <title>Design Patterns</title>
+        <author>Gang of Four</author>
+        <isbn>978-0-20-163361-5</isbn>
+        <category>Engineering</category>
+        <quantity>2</quantity>
+        <price>44.99</price>
+    </book>
+    <book>
+        <id>5</id>
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <isbn>978-0-13-235088-4</isbn>
+        <category>Engineering</category>
+        <quantity>6</quantity>
+        <price>32.99</price>
+    </book>
+    <book>
+        <id>6</id>
+        <title>The Pragmatic Programmer</title>
+        <author>David Thomas</author>
+        <isbn>978-0-13-595705-9</isbn>
+        <category>Engineering</category>
+        <quantity>5</quantity>
+        <price>39.99</price>
+    </book>
+    <book>
+        <id>7</id>
+        <title>Spring in Action</title>
+        <author>Craig Walls</author>
+        <isbn>978-1-61-729389-3</isbn>
+        <category>Technology</category>
+        <quantity>3</quantity>
+        <price>49.99</price>
+    </book>
+    <book>
+        <id>8</id>
+        <title>Database Systems</title>
+        <author>Ramez Elmasri</author>
+        <isbn>978-0-13-319759-8</isbn>
+        <category>Science</category>
+        <quantity>4</quantity>
+        <price>89.99</price>
+    </book>
+</library>

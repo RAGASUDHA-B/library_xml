@@ -1,0 +1,23 @@
+# Maven build output
+/target/
+
+# Tomcat or local container state
+/tomcat.8081/
+
+# Generated files
+/generated-sources/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Java
+*.class
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# Logs
+*.log
